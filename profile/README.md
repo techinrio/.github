@@ -14,4 +14,9 @@ Lembramos que a diversidade de perspectivas enriquece nosso ambiente e nos impul
 
 Mais uma vez, bem-vindes à comunidade Tech In Rio! Esperamos que sua jornada conosco seja repleta de aprendizado, inspiração e crescimento. Juntos, podemos alcançar grandes conquistas e impulsionar a tecnologia no Rio de Janeiro e além.
 
-[Saiba como Contribuir](./../CONTRIBUTING.md)
+## Segue nas redes!
+
+- [Insta](https://instagram.com/techinrio)
+- [Xwitter](https://twitter.com/techinrio)
+- [Linkedinho](https://linkedin.com/in/techinrio)
+- [TikoTeko](https://tiktok.com/@techinrio)
